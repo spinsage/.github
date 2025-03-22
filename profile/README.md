@@ -1,8 +1,5 @@
 ## Hi from [Spinsage][website] 👋
 
-We are builders of affordable and customized technology solutions for small and medium businesses and individuals.
-<br/>
-
 ### Connect with us!
 
 [<img align="left" alt="Spinsage" src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white" />][facebook]
